@@ -17,6 +17,8 @@ public_html/hot
 
 storage/*.key
 .env
+.env.backup
+.env.production
 Homestead.yaml
 Homestead.json
 /.vagrant
@@ -24,7 +26,30 @@ Homestead.json
 
 /public/build
 /storage/pail
-.env.backup
-.env.production
-.phpactor.json
+
+# IDEs
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+
+# Testing & coverage
+coverage
+
+# Vite
+dist
+
+# Misc
 auth.json
+.phpactor.json
