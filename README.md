@@ -15,7 +15,7 @@ The application transforms productivity into an RPG-style experience:
 
 The goal is to motivate consistent improvement through visual feedback and gamification while maintaining a clean and professional user experience.
 
-## ⚙️ Features (MVP)
+## Features (MVP)
 
 - User authentication
 - Task creation and management
@@ -43,7 +43,7 @@ Progression:
 - Task rewards
 - Daily limits
 
-## 🛠 Tech Stack
+## Tech Stack
 
 Backend:
 
